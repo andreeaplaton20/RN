@@ -63,7 +63,7 @@ W = np.random.randn(n_inputs, n_outputs) * 0.01
 b = np.zeros(n_outputs)
 
 epochs = 50
-batch_size = 128
+batch_size = 64
 learning_rate = 0.1
 
 for epoch in range(epochs):
