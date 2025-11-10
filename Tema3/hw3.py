@@ -47,7 +47,7 @@ n_outputs = 10
 
 epochs = 50
 batch_size = 32
-learning_rate = 0.002
+learning_rate = 0.01
 l2_lambda = 1e-4
 
 val_frac = 0.1
